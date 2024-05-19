@@ -52,7 +52,6 @@ def close_db_connection(connection):
     if connection.is_connected():
         connection.close()
 
----
 ## creating-a-table
 ##Create a table named items:
 
