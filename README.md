@@ -97,9 +97,3 @@ A basic definition of Flask Blueprint with JWT (JSON Web Token) authentication a
 ### Access Protected Routes
 
 - Use the JWT token in the `Authorization` header with the value `Bearer <your_jwt_token>` to access protected routes.
-
-#### Example using `curl`
-
-```sh
-curl -X GET
-```
