@@ -11,5 +11,5 @@ pip==24.0
 PyJWT==2.8.0
 setuptools==41.2.0
 Werkzeug==3.0.3
-zipp==3.18.2
+zipp==3.19.1
 mysql-connector-python==8.0.33
